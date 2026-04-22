@@ -1,3 +1,59 @@
+\# NearCart 🛒📍
+
+
+
+NearCart is a smart retail mobile application that helps users discover nearby store branches, shop products, and get orders delivered directly to their doorstep.
+
+
+
+\## 🚀 Features
+
+
+
+\- 📍 \*\*Location-Based Branch Selection\*\*
+
+&#x20; - Automatically detects user location
+
+&#x20; - Displays the 4 nearest branches using real road distance
+
+
+
+\- 🗺️ \*\*Interactive Map\*\*
+
+&#x20; - View nearby branches on a map
+
+&#x20; - Select preferred branch easily
+
+
+
+\- 🛒 \*\*Product Ordering\*\*
+
+&#x20; - Browse products per selected branch
+
+&#x20; - Add items to cart and place orders
+
+
+
+\- 💳 \*\*Secure Payments\*\*
+
+&#x20; - Integrated payment options (e.g. EcoCash, Paynow)
+
+
+
+\- 🚚 \*\*Doorstep Delivery\*\*
+
+&#x20; - Orders fulfilled by selected branch
+
+&#x20; - Delivered to user's location
+
+
+
+\## 🏗️ Architecture
+
+
+
+This project follows a clean and scalable architecture:
+
 
 
 \## 🛠️ Tech Stack
