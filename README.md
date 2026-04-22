@@ -110,5 +110,5 @@ NearCart uses \*\*road distance (not straight-line distance)\*\* to determine th
 
 
 
-Developed by \[Your Name]
+Developed by Blessing Manjozi
 
